@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#FFFF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_">#AAFFFFFF</color>//前两位表示不透明度
+    <color name="black">#FF000000</color>
+    <color name="green">#4CAF50</color>
+    <color name="blue_">#00BCD4</color>
+
+</resources>

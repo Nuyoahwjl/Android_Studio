@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">To do list by wjl</string>
+
+    <string name="title">标题</string>
+
+    <string-array name="myStrArray">
+        <item>你好1</item>
+        <item>你好2</item>
+        <item>你好3</item>
+        <item>你好4</item>
+        <item>你好5</item>
+    </string-array>
+
+</resources>
